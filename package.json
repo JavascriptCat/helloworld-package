@@ -1,0 +1,28 @@
+{
+  "name": "helloworld-package",
+  "version": "1.0.0",
+  "description": "This is a basic hello world package. This is the first package I have made on this account. This is just a simple package, and it does not really have any purpose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavascriptCat/helloworld-package.git"
+  },
+  "keywords": [
+    "hello-world",
+    "package",
+    "random",
+    "hello",
+    "world",
+    "hello",
+    "world"
+  ],
+  "author": "JavascriptCoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JavascriptCat/helloworld-package/issues"
+  },
+  "homepage": "https://github.com/JavascriptCat/helloworld-package#readme"
+}
