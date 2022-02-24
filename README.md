@@ -2,7 +2,7 @@
 
 This is a basic hello world package. This is the first package I have made on this account. This is just a simple package, and it does not really have any purpose.
 
--If you download this your cool 😎😎
+-If you download this you're cool 😎😎
 
 # Installation
 
