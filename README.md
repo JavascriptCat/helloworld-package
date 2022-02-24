@@ -7,7 +7,7 @@ This is a basic hello world package. This is the first package I have made on th
 # Installation
 
 ```sh
-npm i helloworld-package --save
+npm i helloworld-pkg-jscoder --save
 ```
 
 # Usage
