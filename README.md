@@ -22,8 +22,9 @@ In that example we are giving the paragraph element an id of "hello-world."
 Next, in your javascript file, use the following. 
 
 ```js
-const helloWorld = require("helloworld-package");
-helloWorld.createHelloWorld();
+import { helloworld } from 'helloworld-pkg-jscoder';
+
+helloworld.createHelloWorld();
 ```
 All you have to do now is run your "index.html" file or if you're using Node.js enter this into your terminal.
 
