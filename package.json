@@ -1,5 +1,5 @@
 {
-  "name": "helloworld-package",
+  "name": "helloworld-pkg-jscoder",
   "version": "1.0.0",
   "description": "This is a basic hello world package. This is the first package I have made on this account. This is just a simple package, and it does not really have any purpose.",
   "main": "index.js",
